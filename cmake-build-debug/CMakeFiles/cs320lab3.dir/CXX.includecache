@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jamez/CLionProjects/cs320lab3/lab2.cpp
+lab2.h
+C:/Users/jamez/CLionProjects/cs320lab3/lab2.h
+iostream
+-
+point.cpp
+C:/Users/jamez/CLionProjects/cs320lab3/point.cpp
+
+C:/Users/jamez/CLionProjects/cs320lab3/lab2.h
+
+C:/Users/jamez/CLionProjects/cs320lab3/point.cpp
+iostream
+-
+math.h
+-
+
